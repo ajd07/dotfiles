@@ -1,0 +1,24 @@
+### alacritty config! :3
+
+
+### colorsssssss
+[colors]
+[colors.primary]
+background = "#0f171a"
+foreground = "#d1eaf7"
+[colors.cursor]
+text = "#9fb4cc"
+cursor = "#c6ddf2"
+
+### font!!!!!!
+[font]
+size = 13
+offset = { x = 0,  y = 1 }
+[font.normal]
+family = "Ume Gothic"
+# if i dont like ume gothic ill use SourceCodeVF
+style = "Regular"
+
+### mouse behavior
+[mouse]
+hide_when_typing = true
